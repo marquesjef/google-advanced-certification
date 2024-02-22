@@ -1,0 +1,52 @@
+**Project Proposal: Waze Churn Analysis**
+
+**Objective:**
+The objective of this project is to analyze user churn patterns within the Waze platform to identify factors influencing user retention and devise strategies to mitigate churn. By understanding user behavior and engagement metrics, we aim to optimize user retention rates and enhance overall user satisfaction.
+
+**Milestones:**
+
+1. **Data Inspection and Preparation:**
+   - Conduct preliminary data inspection to assess data quality and identify potential issues.
+   - Cleanse and preprocess the dataset for further analysis.
+
+2. **Exploratory Data Analysis (EDA):**
+   - Perform comprehensive EDA to gain insights into user behavior and engagement metrics.
+   - Identify key variables and trends related to churn.
+
+3. **Model Development:**
+   - Develop predictive models to forecast user churn based on historical data.
+   - Evaluate model performance and refine as necessary.
+
+4. **Insights Generation:**
+   - Extract actionable insights from the analysis to understand the drivers of churn.
+   - Generate visualizations and reports to communicate findings effectively.
+
+5. **Presentation Preparation:**
+   - Prepare a compelling presentation outlining key findings and recommendations.
+   - Collaborate with stakeholders to refine presentation content.
+
+**PACE Workflow:**
+
+- **Plan:** Define project objectives, scope, and deliverables. Allocate resources and establish timelines for each milestone.
+  
+- **Act:** Execute project tasks according to the predefined plan. Conduct data analysis, model development, and insights generation.
+  
+- **Check:** Evaluate project progress against milestones. Validate model performance and assess the accuracy of insights generated.
+  
+- **Evaluate:** Review project outcomes and assess the impact of recommendations on user churn. Identify lessons learned and areas for improvement.
+
+**Stakeholders:**
+
+- **Harriet Hadzic (Director of Data Analysis):** Provides strategic guidance and ensures alignment with organizational goals.
+  
+- **May Santner (Data Analysis Manager):** Oversees project execution and facilitates collaboration among team members.
+  
+- **Chidi Ga (Senior Data Analyst):** Contributes technical expertise in data analysis and model development.
+  
+- **Sylvester Esperanza (Senior Project Manager):** Provides project management support and ensures adherence to timelines and deliverables.
+
+By leveraging data-driven insights, we aim to drive informed decision-making and enhance user retention strategies within the Waze platform.
+
+Sincerely,
+[Your Name]
+Data Analyst
